@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="drawn_stick_man3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.62520262"
+     inkscape:cx="236.72326"
+     inkscape:cy="631.79518"
+     inkscape:window-width="1376"
+     inkscape:window-height="787"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0.791506;stroke-width:0.224597"
+       d="m 90.193118,66.499071 h 34.161222 l -0.38819,28.944334 56.28837,1.206012 -0.38819,17.688203 -55.51199,-2.41202 -1.94098,28.14031 29.50287,58.29067 -30.66745,2.01003 -11.64587,-57.48666 -21.738966,-0.402 -17.857003,60.70268 H 40.892263 l 32.220245,-67.53676 4.270151,-24.52228 -48.524464,-2.41203 -1.164588,-18.492218 49.300857,2.010027 9.316698,0.402004 z"
+       id="path1" />
+    <path
+       style="fill:#ff0000;fill-opacity:0;stroke:#cc1a1a;stroke-width:0.904048;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.268936,48.522589 -8.928502,30.150346 -53.182816,1.206013 1.55278,36.984432 44.254317,2.81403 -42.701527,94.87308 65.605076,0.80401 13.58685,-53.0646 16.304216,55.07462 63.2759,-3.61803 -43.86612,-90.85305 62.88771,2.81404 -1.16459,-43.416506 -57.06477,-1.206012 1.16458,-34.572395 z"
+       id="path4" />
+  </g>
+</svg>
